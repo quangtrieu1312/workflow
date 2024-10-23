@@ -1,3 +1,6 @@
 [submodule "DrawOnYourScreen2"]
 	path = DrawOnYourScreen2
 	url = git@github.com:quangtrieu1312/DrawOnYourScreen2.git
+[submodule "ranger"]
+	path = ranger
+	url = git@github.com:quangtrieu1312/ranger.git
