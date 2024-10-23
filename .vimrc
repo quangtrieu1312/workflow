@@ -12,3 +12,4 @@ set smartindent
 "Filename should be visible
 set laststatus=2
 set statusline+=%F
+
