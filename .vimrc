@@ -13,3 +13,5 @@ set smartindent
 set laststatus=2
 set statusline+=%F
 
+"Highlight search
+set hlsearch
