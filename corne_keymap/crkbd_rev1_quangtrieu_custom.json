@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "crkbd/rev1",
-  "keymap": "crkbd_rev1_quangtrieu_custom",
+  "keymap": "crkbd_rev1_crkbd_rev1_quangtrieu_custom",
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
@@ -43,12 +43,12 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_ESC",
-      "KC_LGUI",
-      "MO(1)",
+      "KC_LALT",
+      "MO(2)",
       "KC_SPC",
       "KC_ENT",
-      "MO(2)",
-      "KC_RALT"
+      "MO(1)",
+      "KC_LGUI"
     ],
     [
       "KC_TAB",
@@ -87,12 +87,12 @@
       "KC_F9",
       "KC_F10",
       "KC_PSCR",
-      "KC_LGUI",
-      "KC_TRNS",
+      "KC_LALT",
+      "MO(3)",
       "KC_SPC",
       "KC_ENT",
-      "MO(3)",
-      "KC_RALT"
+      "KC_TRNS",
+      "KC_LGUI"
     ],
     [
       "KC_TAB",
@@ -110,7 +110,7 @@
       "KC_LCTL",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_DEL",
       "KC_NO",
       "KC_NO",
       "KC_MINS",
@@ -131,12 +131,12 @@
       "KC_RCBR",
       "KC_PIPE",
       "KC_TILD",
-      "KC_LGUI",
-      "MO(3)",
+      "KC_LALT",
+      "KC_TRNS",
       "KC_SPC",
       "KC_ENT",
-      "KC_TRNS",
-      "KC_RALT"
+      "MO(3)",
+      "KC_LGUI"
     ],
     [
       "QK_BOOT",
@@ -175,12 +175,12 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_LGUI",
+      "KC_LALT",
       "KC_TRNS",
       "KC_SPC",
       "KC_ENT",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_LGUI"
     ]
   ],
   "author": ""
