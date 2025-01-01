@@ -7,3 +7,6 @@
 [submodule "kickstart.nvim"]
 	path = kickstart.nvim
 	url = git@github.com:quangtrieu1312/kickstart.nvim.git
+[submodule "gromit-mpx"]
+	path = gromit-mpx
+	url = ./gromit-mpx
