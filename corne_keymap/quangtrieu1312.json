@@ -89,10 +89,10 @@
       "KC_PSCR",
       "KC_LGUI",
       "KC_TRNS",
-      "ANY(QK_LLCK)",
-      "ANY(QK_LLCK)",
+      "KC_SPC",
+      "KC_ENT",
       "MO(3)",
-      "KC_LALT"
+      "ANY(QK_LLCK)"
     ],
     [
       "KC_TAB",
@@ -133,10 +133,10 @@
       "KC_TILD",
       "KC_LGUI",
       "MO(3)",
-      "ANY(QK_LLCK)",
-      "ANY(QK_LLCK)",
+      "KC_SPC",
+      "KC_ENT",
       "KC_TRNS",
-      "KC_LALT"
+      "ANY(QK_LLCK)"
     ],
     [
       "QK_BOOT",
@@ -177,10 +177,10 @@
       "KC_NO",
       "KC_LGUI",
       "KC_TRNS",
-      "ANY(QK_LLCK)",
-      "ANY(QK_LLCK)",
+      "KC_SPC",
+      "KC_ENT",
       "KC_TRNS",
-      "KC_LALT"
+      "ANY(QK_LLCK)"
     ]
   ],
   "author": ""
